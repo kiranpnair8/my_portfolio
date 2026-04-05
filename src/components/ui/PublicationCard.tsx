@@ -21,6 +21,7 @@ function highlightAuthor(authors: string) {
 const statusConfig = {
   published: { label: 'Published', className: 'bg-green-100 text-green-800 dark:bg-green-900/30 dark:text-green-400' },
   'in-revision': { label: 'In Revision', className: 'bg-yellow-100 text-yellow-800 dark:bg-yellow-900/30 dark:text-yellow-400' },
+  'in-review': { label: 'In Review', className: 'bg-yellow-100 text-yellow-700 dark:bg-yellow-900/30 dark:text-yellow-400' },
   'in-preparation': { label: 'In Preparation', className: 'bg-blue-100 text-blue-800 dark:bg-blue-900/30 dark:text-blue-400' },
 };
 
