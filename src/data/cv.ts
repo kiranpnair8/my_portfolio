@@ -93,7 +93,7 @@ export const cvData = {
     {
       text: 'Before starting my Ph.D., I was a Graduate Research Assistant in the Brain-Computer Interface Lab at {California State University, Fresno}, advised by Professor {Hubert Cecotti}. I was also a Graduate Research Fellow at the {Fresno State Transportation Institute} under Professor {Aly Tawfik}, where I contributed to Generative AI in transportation research.',
       links: {
-        'California State University, Fresno': 'https://csm.fresnostate.edu/csci/',
+        'California State University, Fresno': 'https://www.fresnostate.edu/index.html',
         'Hubert Cecotti': 'https://sites.google.com/site/hubertcecotti/home',
         'Fresno State Transportation Institute': 'https://engineering.fresnostate.edu/institutes/fsti/index.html',
         'Aly Tawfik': 'https://engineering.fresnostate.edu/institutes/fsti/about/staff.html',
