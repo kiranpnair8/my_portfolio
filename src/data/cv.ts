@@ -81,9 +81,9 @@ export const cvData = {
       text: 'I am a Ph.D. student in Data Science and Engineering at the {University of South Dakota}, affiliated with the {USD Artificial Intelligence Research Lab}. I am co-advised by Professors {Rodrigue Rizk} and {KC Santosh}.',
       links: {
         'University of South Dakota': 'https://www.usd.edu',
-        'USD Artificial Intelligence Research Lab': 'https://www.usd.edu/artificial-intelligence-research-lab',
-        'Rodrigue Rizk': 'https://www.usd.edu/directory/rodrigue-rizk',
-        'KC Santosh': 'https://kc-santosh.org',
+        'USD Artificial Intelligence Research Lab': 'https://ai-research-lab.org/',
+        'Rodrigue Rizk': 'https://rodriguerizk.github.io/',
+        'KC Santosh': 'https://kc-santosh.org/',
       },
     },
     {
@@ -94,15 +94,15 @@ export const cvData = {
       text: 'Before starting my Ph.D., I was a Graduate Research Assistant in the Brain-Computer Interface Lab at {California State University, Fresno}, advised by Professor {Hubert Cecotti}. I was also a Graduate Research Fellow at the {Fresno State Transportation Institute} under Professor {Aly Tawfik}, where I contributed to Generative AI in transportation research.',
       links: {
         'California State University, Fresno': 'https://csm.fresnostate.edu/csci/',
-        'Hubert Cecotti': 'https://www.fresnostate.edu/catalog/subjects/computer-science/cecotti.html',
-        'Fresno State Transportation Institute': 'https://www.fresnostate.edu/engineering/fsti/',
-        'Aly Tawfik': 'https://www.fresnostate.edu/engineering/fsti/about/tawfik.html',
+        'Hubert Cecotti': 'https://sites.google.com/site/hubertcecotti/home',
+        'Fresno State Transportation Institute': 'https://engineering.fresnostate.edu/institutes/fsti/index.html',
+        'Aly Tawfik': 'https://engineering.fresnostate.edu/institutes/fsti/about/staff.html',
       },
     },
     {
       text: 'I hold a Master\'s degree in Computer Science from California State University, Fresno, and a Bachelor\'s degree in Computer Science and Engineering from {Kerala Technological University, India}.',
       links: {
-        'Kerala Technological University, India': 'https://ktu.edu.in',
+        'Kerala Technological University, India': 'https://ktu.edu.in/',
       },
     },
   ] as { text: string; links: Record<string, string> }[],
