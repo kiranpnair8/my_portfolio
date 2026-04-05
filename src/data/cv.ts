@@ -11,7 +11,7 @@ export interface Publication {
   title: string;
   venue: string;
   year: number;
-  status: 'published' | 'in-revision' | 'in-preparation';
+  status: 'published' | 'in-revision' | 'in-preparation' | 'in-review';
   links?: { type: 'pdf' | 'arxiv' | 'code' | 'doi'; url: string }[];
 }
 
@@ -144,7 +144,7 @@ export const cvData = {
       title: 'Environment is the Attack: Security Failures in EEG-Based Authentication',
       venue: 'USENIX WOOT Conference on Offensive Technology (WOOT)',
       year: 2026,
-      status: 'published',
+      status: 'in-review',
     },
     {
       authors: 'Kiran Nair, Hubert Cecotti',
