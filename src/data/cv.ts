@@ -362,8 +362,6 @@ export const cvData = {
     'Brain-inspired Computing',
     'Security and Privacy in Language Modelling',
     'Brain-Computer Interfaces',
-    'Signal Processing',
-    'Deep Learning',
     'Computer Vision',
     'Applied Generative AI',
   ],
