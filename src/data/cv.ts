@@ -337,11 +337,11 @@ export const cvData = {
   skills: [
     {
       category: 'Languages',
-      items: ['Python', 'C/C++', 'MATLAB', 'JavaScript', 'Haskell'],
+      items: ['Python', 'C/C++', 'MATLAB'],
     },
     {
       category: 'ML & AI',
-      items: ['TensorFlow', 'PyTorch', 'Scikit-learn', 'Deep Learning', 'EEG Processing'],
+      items: ['TensorFlow', 'PyTorch', 'Scikit-learn', 'Deep Learning'],
     },
     {
       category: 'Web & Frameworks',
@@ -349,7 +349,7 @@ export const cvData = {
     },
     {
       category: 'Tools',
-      items: ['Git', 'GitHub', 'VS Code', 'Figma', 'OpenGL', 'Matplotlib', 'GIMP'],
+      items: ['Git', 'GitHub', 'VS Code', 'OpenGL'],
     },
   ] as SkillCategory[],
 
@@ -359,12 +359,12 @@ export const cvData = {
   ],
 
   researchInterests: [
+    'Brain-inspired Computing',
+    'Security and Privacy in Language Modelling',
     'Brain-Computer Interfaces',
-    'EEG Signal Processing',
+    'Signal Processing',
     'Deep Learning',
     'Computer Vision',
-    'Generative AI',
-    'Transportation AI',
-    'Neural Architecture Design',
+    'Applied Generative AI',
   ],
 };
